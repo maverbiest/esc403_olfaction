@@ -1,4 +1,7 @@
 # ESC403 group project 
+https://github.com/maverbiest/esc403_olfaction
+
+
 # The nose knows: comparing olfaction at different concentrations
 ### Group members: Wei-Chen Kao, Alex Plüss, Nadja Greter, Max Verbiest
 
